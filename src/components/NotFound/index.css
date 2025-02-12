@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.notfound-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  padding: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
